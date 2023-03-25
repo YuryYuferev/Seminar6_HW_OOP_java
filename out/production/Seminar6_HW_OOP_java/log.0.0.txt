@@ -1,0 +1,2 @@
+мар. 21, 2023 9:35:26 PM src.dip1.Main main
+INFO: Стартовал метод main в пакете model
